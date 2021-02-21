@@ -2,7 +2,7 @@
 
 ![image Screenshot](./screenshot.png)
 
-This was the very first public-facing website that I ever built. It's pretty terrible :sweat_smile:, but the nostalgia gives it a nice touch. :satisfied:
+This was the very first public-facing website that I ever worked on. It's pretty terribly built :sweat_smile:, but the nostalgia gives it a nice touch. :satisfied:
 
 Live url: https://relative-clauses-tool.dingel.dev/
 
