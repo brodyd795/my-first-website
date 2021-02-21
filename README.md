@@ -54,5 +54,7 @@ python interface_final.py
 ### Original group members
 - Emily Dux Speltz
 - Alif Silpachai
+- Kim Becker
+- Rick Amos
 
 Under the guidance of Dr. Evgeny Chukharev-Hudilainen
