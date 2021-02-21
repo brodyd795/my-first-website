@@ -4,6 +4,8 @@
 
 This was the very first public-facing website that I ever built. It's pretty terrible :sweat_smile:, but the nostalgia gives it a nice touch. :satisfied:
 
+Live url: https://relative-clauses-tool.dingel.dev/
+
 ### Background
 
 This is a computer-assisted language-learning (CALL) tool that my classmates and I built in Spring 2018 in a graduate-level seminar at Iowa State University. The goal of the course was to build a CALL tool throughout the semester, starting with identifying a need in the field, conceptualizing a solution, implementing it, and testing it with real users.
@@ -49,3 +51,8 @@ Requirements:
 cd Interface/
 python interface_final.py
 ```
+### Original group members
+- Emily Dux Speltz
+- Alif Silpachai
+
+Under the guidance of Dr. Evgeny Chukharev-Hudilainen
