@@ -56,5 +56,6 @@ python interface_final.py
 - Alif Silpachai
 - Kim Becker
 - Rick Amos
+- Erik Goodale
 
 Under the guidance of Dr. Evgeny Chukharev-Hudilainen
