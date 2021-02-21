@@ -54,8 +54,8 @@ python interface_final.py
 ### Original group members
 - Emily Dux Speltz
 - Alif Silpachai
-- Kim Becker
-- Rick Amos
+- Kimberly Becker
+- Richard Amos
 - Erik Goodale
 - Taichi Yamashita
 - Brody Dingel
