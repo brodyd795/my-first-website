@@ -57,5 +57,7 @@ python interface_final.py
 - Kim Becker
 - Rick Amos
 - Erik Goodale
+- Taichi Yamashita
+- Brody Dingel
 
 Under the guidance of Dr. Evgeny Chukharev-Hudilainen
